@@ -1,3 +1,5 @@
+aiohttp
+requests
 pystac-client
 xarray
 geopandas

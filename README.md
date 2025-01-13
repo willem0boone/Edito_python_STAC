@@ -2,7 +2,7 @@
 
 ## About
 
-This tutorial is an outline of how to interact with the EDITO STAC, and utilize the ARCO data products.  This tutorial presents some of the more fundamental concepts and methods for being able to find the ARCO datasets in a STAC catalog, take a subset of data of interest, and perform some basic visual analysis.
+This tutorial is an outline of how to interact with the EDITO STAC, and utilize the ARCO data products.  This tutorial presents some of the more fundamental concepts and methods for being able to find the ARCO datasets in a STAC catalog, take a subset of data of interest, and perform some basic visual analysis.  
 
 ## Content
 Retrieve-CMEMS-dataset.ipynb: Retrieve a dataset from CMEMs using pystac_client, and subset a zarr dataset. 
@@ -15,3 +15,8 @@ subsetting_arco_data.ipynb:  Open the CSV file containing the URLs of the ARCO a
 
 ## Deployment
 The notebook is deployed on [Edito Datalab](https://datalab.dive.edito.eu/) as a tutorial. 
+
+# License
+
+CC-BY-4.0
+
