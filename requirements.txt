@@ -1,0 +1,12 @@
+aiohttp
+requests
+pystac-client
+xarray
+geopandas
+copernicusmarine
+numpy
+pandas
+cartopy
+matplotlib
+shapely
+ipykernel
