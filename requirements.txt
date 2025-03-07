@@ -3,10 +3,13 @@ requests
 pystac-client
 xarray
 geopandas
-copernicusmarine
 numpy
 pandas
 cartopy
 matplotlib
 shapely
 ipykernel
+contextily
+pyarrow
+pystac_client
+copernicusmarine
