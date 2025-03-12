@@ -4,8 +4,9 @@
 This project is part of EDITO-INFRA ([Grant agreement ID: 101101473](https://doi.org/10.3030/101101473))
 - Task 6.2 Open tools
 
-Author: Willem Boone | contact: [willem.boone@vliz.be](willem.boone@vliz.be)
-Author: Samuel Fooks | contact: [samuel.fooks@vliz.be](samuel.fooks@vliz.be)
+Authors
+- Willem Boone | contact: [willem.boone@vliz.be](willem.boone@vliz.be)
+- Samuel Fooks | contact: [samuel.fooks@vliz.be](samuel.fooks@vliz.be)
 
 ## Tutorials
 These tutorials are an outline of how to interact with the EDITO STAC, and utilize the Analysis-ready and cloud-optimized (ARCO) data products. The tutorials presents some of the more fundamental concepts and methods for being able to find the ARCO datasets in a STAC catalog, take a subset of data of interest, and perform some basic visual analysis. 
