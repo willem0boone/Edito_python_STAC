@@ -17,12 +17,12 @@ The STAC browser is a useful GUI tool that allows users to visualy search the ST
 
 ### 1. Retrieve-CMEMS-dataset.ipynb
 Find a dataset from CMEMs using pystac_client. The dataset is offered as ZARR. The ZARR will be sliced and plotted. 
-- [Notebook](https://github.com/willem0boone/Edito_python_STAC/blob/main/Retrieve-CMEMS-dataset.ipynb)
+- [Notebook](https://github.com/willem0boone/Edito_python_STAC/blob/main/Retrieve-CMEMS-dataset.ipynb) <br>
 [![Watch the video](https://img.youtube.com/vi/vT4fBrzsFPk/0.jpg)](https://www.youtube.com/watch?v=vT4fBrzsFPk)
 
 ### 2. Retrieve-eurobis-dataset.ipynb
 Find occurrence data from eurobis. The dataset is offered as parquet. The parquet is sliced and plotted.
-- [Notebook](https://github.com/willem0boone/Edito_python_STAC/blob/main/Retrieve-eurobis-dataset.ipynb)
+- [Notebook](https://github.com/willem0boone/Edito_python_STAC/blob/main/Retrieve-eurobis-dataset.ipynb) <br>
 [![Watch the video](https://img.youtube.com/vi/jpJDoB--7DU/0.jpg)](https://www.youtube.com/watch?v=jpJDoB--7DU)
 
 ### 3. search_biooracle_stac_zarr_assets.py
