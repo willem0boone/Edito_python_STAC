@@ -12,7 +12,7 @@ Authors
 These tutorials are an outline of how to interact with the EDITO STAC, and utilize the Analysis-ready and cloud-optimized (ARCO) data products. The tutorials presents some of the more fundamental concepts and methods for being able to find the ARCO datasets in a STAC catalog, take a subset of data of interest, and perform some basic visual analysis. 
 
 ### 0. STAC browser
-The STAC browser is a useful GUI tool that allows users to visualy search the STAC catalog. Watch the demo video below to learn more.
+The STAC browser is a useful GUI tool that allows users to visualy search the STAC catalog. Watch the demo video below to learn more.<br>
 [![Watch the video](https://img.youtube.com/vi/ZJHcB2fwkIQ/0.jpg)](https://www.youtube.com/watch?v=ZJHcB2fwkIQ)
 
 ### 1. Retrieve-CMEMS-dataset.ipynb
